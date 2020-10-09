@@ -3,6 +3,6 @@
 * 프로젝트 기간: 2020년 9월~2020년 12월
 * 담당 교수: 김정래
 ---
-* project repositody of the research internship in Mathematics, University of Seoul
+* project repository of the research internship in Mathematics, University of Seoul
 * Period: September 2020 ~ December 2020
 * Advisor: Prof. Jungrae Kim
